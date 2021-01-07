@@ -264,7 +264,7 @@ The confusion matrices show, that the Random Forest algorithm performens better 
 ### Expected out-of-sample error
 The expected out-of-sample error is estimated at 0.005, or 0.5%. The expected out-of-sample error is calculated as 1 - accuracy for predictions made against the cross-validation set. Our Test data set comprises 20 cases. With an accuracy above 99% on our cross-validation data, we can expect that very few, or none, of the test samples will be missclassified.
 
-## Submission
+## SubmissionS
 In this section the files for the project submission are generated using the random forest algorithm on the testing data.
 
 
